@@ -12,7 +12,7 @@
 -->
 以商汤原创技术体系为根基，SenseCore商汤AI大装置为核心基座，结合SenseNova商汤日日新大模型体系以及相关平台框架、训推工具能力，实现在视觉、感知、决策、增强现实等领域的算法应用，并根据各领域技术通用性逐步对外开源
 
-![image](https://github.com/user-attachments/assets/dd741c44-0f1b-4774-a7b0-d44229ecf6b2)
+![image](https://github.com/user-attachments/assets/65352bc4-a22f-4406-bf5a-dfa656f0984e)
 
 ⭐ **SenseNova 商汤日日新大模型开源项目**，https://github.com/OpenSenseNova
 
